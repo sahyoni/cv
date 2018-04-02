@@ -482,7 +482,9 @@ ul#nav li.current a { color: #F06000; }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
-
+.wordbreak{
+    word-wrap: break-word;
+}
 /* Reset */
 .flexslider a:active,
 .flexslider a:focus  { outline: none; }
