@@ -463,6 +463,70 @@ ul#nav li.current a { color: #F06000; }
  100% { width: 80%;  }
 }
 
+/* ------------- */
+
+@-webkit-keyframes css {
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
+}
+@-webkit-keyframes html5 {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+@-webkit-keyframes Java {
+ 0%   { width: 0px;  }
+ 100% { width: 85%;  }
+}
+@-webkit-keyframes Spring {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+@-webkit-keyframes Mysql {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+@-webkit-keyframes Junit {
+ 0%   { width: 0px;  }
+ 100% { width: 75%;  }
+}
+@-webkit-keyframes Selenium {
+ 0%   { width: 0px;  }
+ 100% { width: 75%;  }
+}
+@-webkit-keyframes React {
+ 0%   { width: 0px;  }
+ 100% { width: 55%;  }
+}
+@-webkit-keyframes Ruby {
+ 0%   { width: 0px;  }
+ 100% { width: 30%;  }
+}
+@-webkit-keyframes Java-script {
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
+}
+@-webkit-keyframes Git {
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
+}
+@-webkit-keyframes bootstrap {
+ 0%   { width: 0px;  }
+ 100% { width: 65%;  }
+}
+@-webkit-keyframes TDD {
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
+}
+@-webkit-keyframes Agile {
+ 0%   { width: 0px;  }
+ 100% { width: 75%;  }
+}
+@-webkit-keyframes Scrum {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+
+
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
