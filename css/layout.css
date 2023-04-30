@@ -35,7 +35,7 @@ header {
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
+   -webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
 }
@@ -122,10 +122,10 @@ header .scrolldown a:hover { color: #11ABB0; }
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
-	 margin: 0;
-	 padding: 0;
-	 border: none;
-	 outline: none;
+ margin: 0;
+ padding: 0;
+ border: none;
+ outline: none;
 }
 
 /* nav-wrap */
@@ -164,18 +164,18 @@ ul#nav li a {
 
 /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
 
-   display: inline-block;
-   padding: 8px 13px;
-   line-height: 32px;
-	text-decoration: none;
-   text-align: left;
-   color: #fff;
+display: inline-block;
+padding: 8px 13px;
+line-height: 32px;
+text-decoration: none;
+text-align: left;
+color: #fff;
 
-	-webkit-transition: color .2s ease-in-out;
-	-moz-transition: color .2s ease-in-out;
-	-o-transition: color .2s ease-in-out;
-	-ms-transition: color .2s ease-in-out;
-	transition: color .2s ease-in-out;
+-webkit-transition: color .2s ease-in-out;
+-moz-transition: color .2s ease-in-out;
+-o-transition: color .2s ease-in-out;
+-ms-transition: color .2s ease-in-out;
+transition: color .2s ease-in-out;
 }
 
 ul#nav li a:active { background-color: transparent !important; }
@@ -292,24 +292,24 @@ ul#nav li.current a { color: #F06000; }
 	text-align: left;
 }
 .bars .skills {
-  	margin-top: 36px;
+   margin-top: 36px;
    list-style: none;
 }
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
-  	border-radius: 3px;
+   margin-bottom: 60px;
+   background: #ccc;
+   height: 42px;
+   border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
-	text-transform: uppercase;
+   text-transform: uppercase;
    letter-spacing: 2px;
-	font-weight: normal;
+   font-weight: normal;
    position: relative;
-	top: -36px;
+   top: -36px;
 }
 .bar-expand {
    position: absolute;
@@ -318,17 +318,17 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+   background: #313131;
    display: inline-block;
-  	height: 42px;
+   height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
 
 .Java {
-  	width: 85%;
-  	-moz-animation: Java 2s ease;
-  	-webkit-animation: Java 2s ease;
+   width: 85%;
+   -moz-animation: Java 2s ease;
+   -webkit-animation: Java 2s ease;
 }
 .Spring {
    width: 80%;
@@ -361,94 +361,94 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: Ruby 2s ease;
 }
 .Java-script {
-  	width: 60%;
-  	-moz-animation: Java-script 2s ease;
-  	-webkit-animation: Java-script 2s ease;
+   width: 60%;
+   -moz-animation: Java-script 2s ease;
+   -webkit-animation: Java-script 2s ease;
 }
 .Git {
-  	width: 50%;
-  	-moz-animation: Git 2s ease;
-  	-webkit-animation: Git 2s ease;
+   width: 50%;
+   -moz-animation: Git 2s ease;
+   -webkit-animation: Git 2s ease;
 }
 .css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+   width: 90%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+   width: 80%;
+   -moz-animation: html5 2s ease;
+   -webkit-animation: html5 2s ease;
 }
 .bootstrap {
-    width: 65%;
-    -moz-animation: bootstrap 2s ease;
-    -webkit-animation: bootstrap 2s ease;
+  width: 65%;
+  -moz-animation: bootstrap 2s ease;
+  -webkit-animation: bootstrap 2s ease;
 }
 .TDD {
-    width: 60%;
-    -moz-animation: TDD 2s ease;
-    -webkit-animation: TDD 2s ease;
+  width: 60%;
+  -moz-animation: TDD 2s ease;
+  -webkit-animation: TDD 2s ease;
 }
 .Agile {
-    width: 75%;
-    -moz-animation: Agile 2s ease;
-    -webkit-animation: Agile 2s ease;
+  width: 75%;
+  -moz-animation: Agile 2s ease;
+  -webkit-animation: Agile 2s ease;
 }
 .Scrum {
-    width: 80%;
-    -moz-animation: Scrum 2s ease;
-    -webkit-animation: Scrum 2s ease;
+  width: 80%;
+  -moz-animation: Scrum 2s ease;
+  -webkit-animation: Scrum 2s ease;
 }
 
 @-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
 }
 @-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 55%;  }
 }
 @-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
 }
 @-moz-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }
 @-moz-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 
 @-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 60%;  }
 }
 @-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 55%;  }
 }
 @-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 @-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
 }
 @-webkit-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
 }
 @-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+ 0%   { width: 0px;  }
+ 100% { width: 50%;  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -463,7 +463,7 @@ ul#nav li.current a { color: #F06000; }
 #testimonials {
    background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
+   -webkit-background-size: cover !important;
    background-attachment: fixed;
 
    position: relative;
@@ -486,8 +486,8 @@ ul#nav li.current a { color: #F06000; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
-	padding-right: 10px;
-	font-size: 72px;
+   padding-right: 10px;
+   font-size: 72px;
    line-height: 72px;
    text-align: left;
    float: left;
@@ -523,7 +523,7 @@ ul#nav li.current a { color: #F06000; }
 /* Flex Slider
 /* ------------------------------------------------------------------ */
 .wordbreak{
-    word-wrap: break-word;
+  word-wrap: break-word;
 }
 /* Reset */
 .flexslider a:active,
@@ -561,7 +561,7 @@ ul#nav li.current a { color: #F06000; }
 /* No JavaScript Fallback */
 /* If you are not using another script, such as Modernizr, make sure you
  * include js that eliminates this class on page load */
-.no-js .slides > li:first-child { display: block; }
+ .no-js .slides > li:first-child { display: block; }
 
 /* Slider Styles */
 .slides { zoom: 1; }
@@ -572,44 +572,44 @@ ul#nav li.current a { color: #F06000; }
 
 /* Control Nav */
 .flex-control-nav {
-    width: 100%;
-    position: absolute;
-    bottom: -20px;
-    text-align: left;
+  width: 100%;
+  position: absolute;
+  bottom: -20px;
+  text-align: left;
 }
 .flex-control-nav li {
-    margin: 0 6px;
-    display: inline-block;
-    zoom: 1;
-    *display: inline;
+  margin: 0 6px;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
 }
 .flex-control-paging li a {
-    width: 12px;
-    height: 12px;
-    display: block;
-    background: #ddd;
-    background: rgba(255, 255, 255, .3);
-    cursor: pointer;
-    text-indent: -9999px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -o-border-radius: 20px;
-    border-radius: 20px;
-    box-shadow: inset 0 0 3px rgba(255, 255, 255, .3);
+  width: 12px;
+  height: 12px;
+  display: block;
+  background: #ddd;
+  background: rgba(255, 255, 255, .3);
+  cursor: pointer;
+  text-indent: -9999px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  box-shadow: inset 0 0 3px rgba(255, 255, 255, .3);
 }
 .flex-control-paging li a:hover {
-    background: #CCC;
-    background: rgba(255, 255, 255, .7);
+  background: #CCC;
+  background: rgba(255, 255, 255, .7);
 }
 .flex-control-paging li a.flex-active {
-    background: #fff;
-    background: rgba(255, 255, 255, .9);
-    cursor: default;
+  background: #fff;
+  background: rgba(255, 255, 255, .9);
+  cursor: default;
 }
 
 .column-left{ float: left; width: 33%; }
-    .column-right{ float: right; width: 33%; }
-    .column-center{ display: inline-block; width: 33%; }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
 /* ------------------------------------------------------------------ */
 /* i. Footer
 /* ------------------------------------------------------------------ */
@@ -628,26 +628,26 @@ footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
-    margin: 0;
-    padding: 0;
- }
+  margin: 0;
+  padding: 0;
+}
 footer .copyright li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    line-height: 24px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
 }
 .ie footer .copyright li {
    display: inline;
 }
 footer .copyright li:before {
-    content: "\2022";
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #095153;
+  content: "\2022";
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #095153;
 }
 footer .copyright  li:first-child:before {
-    display: none;
+  display: none;
 }
 
 /* social links */
@@ -657,11 +657,11 @@ footer .social-links {
    font-size: 30px;
 }
 footer .social-links li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    margin-left: 42px;
-    color: #F06000;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  margin-left: 42px;
+  color: #F06000;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -690,7 +690,7 @@ footer .social-links li:first-child { margin-left: 0; }
    color: #fff;
    font-size: 21px;
    line-height: 60px;
- 	border-radius: 100%;
+   border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
 
