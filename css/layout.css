@@ -325,10 +325,40 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.Java {
+  	width: 85%;
+  	-moz-animation: Java 2s ease;
+  	-webkit-animation: Java 2s ease;
+}
+.Spring {
+   width: 80%;
+   -moz-animation: Spring 2s ease;
+   -webkit-animation: Spring 2s ease;
+}
+.Mysql {
+   width: 80%;
+   -moz-animation: Mysql 2s ease;
+   -webkit-animation: Mysql 2s ease;
+}
+.Junit {
+   width: 75%;
+   -moz-animation: Junit 2s ease;
+   -webkit-animation: Junit 2s ease;
+}
+.Selenium {
+   width: 75%;
+   -moz-animation: Selenium 2s ease;
+   -webkit-animation: Selenium 2s ease;
+}
+.React {
+   width: 55%;
+   -moz-animation: React 2s ease;
+   -webkit-animation: React 2s ease;
+}
 .Ruby {
-  	width: 60%;
-  	-moz-animation: Ruby 2s ease;
-  	-webkit-animation: Ruby 2s ease;
+   width: 30%;
+   -moz-animation: Ruby 2s ease;
+   -webkit-animation: Ruby 2s ease;
 }
 .Java-script {
   	width: 60%;
@@ -350,15 +380,25 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
 .bootstrap {
     width: 65%;
     -moz-animation: bootstrap 2s ease;
     -webkit-animation: bootstrap 2s ease;
+}
+.TDD {
+    width: 60%;
+    -moz-animation: TDD 2s ease;
+    -webkit-animation: TDD 2s ease;
+}
+.Agile {
+    width: 75%;
+    -moz-animation: Agile 2s ease;
+    -webkit-animation: Agile 2s ease;
+}
+.Scrum {
+    width: 80%;
+    -moz-animation: Scrum 2s ease;
+    -webkit-animation: Scrum 2s ease;
 }
 
 @-moz-keyframes photoshop {
